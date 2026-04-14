@@ -1,0 +1,5 @@
+applied_jobs.csv
+manual_apply.csv
+questions_jobs.csv
+__pycache__/
+*.pyc

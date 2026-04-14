@@ -184,17 +184,7 @@ Out of ~40 jobs scanned per session:
 
 ## 👤 Author
 
-Built by **Akshay Kanavaje** — a data analyst who got tired of manually applying to jobs and decided to automate the problem away.
+Built by **Akshay Kanavaje** — a data scientist who got tired of manually applying to jobs and decided to automate the problem away.
 
-- LinkedIn: [your LinkedIn URL]
-- GitHub: [your GitHub URL]
-
----
-
-## 📄 License
-
-MIT License — free to use, modify and distribute.
-
----
 
 *If this project helped you, consider giving it a ⭐ on GitHub!*
